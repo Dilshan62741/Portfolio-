@@ -25,7 +25,7 @@ function Skills() {
       color: 'from-purple-400 to-blue-400',
       borderColor: 'border-blue-400/20',
       bgColor: 'bg-blue-400/5',
-      skills: ['Python', 'Java', 'C', 'C++', 'C#', 'JavaScript', 'SQL']
+      skills: ['Python', 'Java', 'C', 'C++', 'C#', 'JavaScript', 'SQL', 'HTML', 'CSS']
     },
     databases: {
       title: 'Databases',
